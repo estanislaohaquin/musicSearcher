@@ -1,6 +1,9 @@
 import os
 import shutil
-
+""" 
+Este script se encarga de, a partir de una carpeta "Madre", recorrer todas las subcarpetas existentes, para copiar y pegar todos los archivos musicales que encuentre
+en su camino, en una carpeta llamada "Playlist", y disponer de todos los archivos en un unico repositorio.
+"""
 # Ruta de la carpeta madre
 carpeta_madre = 'C:/Users/Estanislao/Documents/MusicApp' 
 
